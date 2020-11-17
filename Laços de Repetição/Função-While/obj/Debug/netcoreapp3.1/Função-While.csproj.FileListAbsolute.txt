@@ -1,0 +1,13 @@
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\bin\Debug\netcoreapp3.1\Função-While.exe
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\bin\Debug\netcoreapp3.1\Função-While.deps.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\bin\Debug\netcoreapp3.1\Função-While.runtimeconfig.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\bin\Debug\netcoreapp3.1\Função-While.runtimeconfig.dev.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\bin\Debug\netcoreapp3.1\Função-While.dll
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\bin\Debug\netcoreapp3.1\Função-While.pdb
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\obj\Debug\netcoreapp3.1\Função-While.csprojAssemblyReference.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\obj\Debug\netcoreapp3.1\Função-While.AssemblyInfoInputs.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\obj\Debug\netcoreapp3.1\Função-While.AssemblyInfo.cs
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\obj\Debug\netcoreapp3.1\Função-While.csproj.CoreCompileInputs.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\obj\Debug\netcoreapp3.1\Função-While.dll
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\obj\Debug\netcoreapp3.1\Função-While.pdb
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Laços de Repetição\Função-While\obj\Debug\netcoreapp3.1\Função-While.genruntimeconfig.cache
