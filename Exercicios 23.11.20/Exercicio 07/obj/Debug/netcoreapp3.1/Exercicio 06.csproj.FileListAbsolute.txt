@@ -1,0 +1,13 @@
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\bin\Debug\netcoreapp3.1\Exercicio 06.exe
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\bin\Debug\netcoreapp3.1\Exercicio 06.deps.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\bin\Debug\netcoreapp3.1\Exercicio 06.runtimeconfig.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\bin\Debug\netcoreapp3.1\Exercicio 06.runtimeconfig.dev.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\bin\Debug\netcoreapp3.1\Exercicio 06.dll
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\bin\Debug\netcoreapp3.1\Exercicio 06.pdb
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\obj\Debug\netcoreapp3.1\Exercicio 06.csprojAssemblyReference.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\obj\Debug\netcoreapp3.1\Exercicio 06.AssemblyInfoInputs.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\obj\Debug\netcoreapp3.1\Exercicio 06.AssemblyInfo.cs
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\obj\Debug\netcoreapp3.1\Exercicio 06.csproj.CoreCompileInputs.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\obj\Debug\netcoreapp3.1\Exercicio 06.dll
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\obj\Debug\netcoreapp3.1\Exercicio 06.pdb
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Exercicios 23.11.20\Exercicio 06\obj\Debug\netcoreapp3.1\Exercicio 06.genruntimeconfig.cache
