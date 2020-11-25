@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Exercicio 06/1.0.0": {
+      "Exercicio 07/1.0.0": {
         "runtime": {
-          "Exercicio 06.dll": {}
+          "Exercicio 07.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Exercicio 06/1.0.0": {
+    "Exercicio 07/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
