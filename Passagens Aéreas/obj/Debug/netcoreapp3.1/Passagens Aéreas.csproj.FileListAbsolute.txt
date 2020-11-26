@@ -1,0 +1,13 @@
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.exe
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.deps.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.runtimeconfig.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.runtimeconfig.dev.json
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.dll
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\bin\Debug\netcoreapp3.1\Passagens Aéreas.pdb
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.csprojAssemblyReference.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.AssemblyInfoInputs.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.AssemblyInfo.cs
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.csproj.CoreCompileInputs.cache
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.dll
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.pdb
+C:\Users\JoViO\OneDrive\Área de Trabalho\Senai Info\C#\Csharp\Passagens Aéreas\obj\Debug\netcoreapp3.1\Passagens Aéreas.genruntimeconfig.cache
